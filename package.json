@@ -1,0 +1,22 @@
+{
+  "name": "node-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianfeng95/node-async.git"
+  },
+  "author": "xianfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianfeng95/node-async/issues"
+  },
+  "homepage": "https://github.com/xianfeng95/node-async#readme",
+  "dependencies": {
+    "async": "^2.1.2"
+  }
+}
